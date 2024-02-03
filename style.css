@@ -1,0 +1,74 @@
+.section-one{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 30px;
+
+}
+.section-two{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+
+   
+}
+.point:hover{
+    cursor: pointer;
+    color: green;
+}
+.section-three,.section-four,.section-five,.section-six{
+    display: inline-block;
+}
+.section-three{
+    width: 200px;
+    border: solid black 2px;
+}
+.button{
+    background-color: black;
+    color: white;
+    
+
+}.section-four{
+    width: 200px;
+    border: solid black 2px;
+}
+.section-five{
+    width: 200px;
+    border: solid black 2px;
+}
+.container{
+    text-align: center;
+}
+.section-six{
+    width: 200px;
+    border: solid black 2px;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    
+}
+.finish{
+    background-color: yellowgreen;
+    color: white;
+
+}
+.finish:hover{
+    cursor: pointer;
+    color: blue;
+    border-radius: 5px;
+}
+.contact{
+    text-align: center;
+}
+.table{
+    margin: auto;
+}
+.finish{
+    width: 300px;
+}
+
+
+
